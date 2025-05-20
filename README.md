@@ -3,6 +3,7 @@
 This is a simple C program that converts a binary number (input as a string) to its decimal (base-10) equivalent.
 
 I wrote this as a beginner to practice working with strings, loops, and basic number conversion logic in C.
+Im trying to become an embedded engineer and learning C as my programming language and im trying to answer different kind of questions for improving my C logic implementation 
 
 ---
 
